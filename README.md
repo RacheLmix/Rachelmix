@@ -49,7 +49,7 @@
 <div align="center">
     <h2>Now Getstarted Basic Dev </h2>
     <br>
-    ### Hi! I am Rachel
+    ### Hi! I am Rachel <br>
     <img align="right center    "
         src="https://github-readme-stats.vercel.app/api?username=Rachelmix&count_private=true&show_icons=true&line_height=25" />
 
