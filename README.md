@@ -84,7 +84,7 @@
 <br />
 
 <div align="center">
-        <a target='_blank'><img height='64' style='border:0px;height:164px;with='1400px';'
+        <a target='_blank'><img height='64' style='border:0px;height:164px;with=1400px;'
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPOMQPrizXM5IQNj3UKyxp_rJQ8vQ6TY7p1gt4FmAWKwyeDmAwyp8c4ybXX2EOn6KFQU&usqp=CAU"
                 border='0' alt='Give Me Monney NOW' /></a>
     
