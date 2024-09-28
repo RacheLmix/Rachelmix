@@ -13,7 +13,7 @@
 
     🌱 I’m currently learning **TAILWIND**
 
-    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/LuminousMCK)**
+    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Rachelmix)**
 
     ⚡ Fun fact **Genshin Impact Is Lost UID:802346132**
 
@@ -54,8 +54,8 @@
         src="https://github-readme-stats.vercel.app/api?username=Rachelmix&count_private=true&show_icons=true&line_height=25" />
 
 
-- 🌐 Welcome to <br>
-- ✉ Or contact me with [email](mailto:tungxeko912@gmail.com)
+- 🌐 Welcome to VietNam <br>
+- ✉ Or contact me with [email](mailto:tungxeko912@gmail.com) <br>
   <img style="width:1000px;" alt="img" src="https://media1.tenor.com/m/0KmaqQiWXiwAAAAC/huo-huo-huohuo.gif" />
   <br/><br/><br/>
 </div>
