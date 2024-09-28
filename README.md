@@ -9,13 +9,13 @@
 
 <div align="center">
 
-    🔭 I’m currently working on **a Perfect Guys**
+🔭 I’m currently working on **a Perfect Guys**
 
-    🌱 I’m currently learning **TAILWIND**
+🌱 I’m currently learning **TAILWIND**
 
-    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Rachelmix)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Rachelmix)**
 
-    ⚡ Fun fact **Genshin Impact Is Lost UID:802346132**
+⚡ Fun fact **Genshin Impact Is Lost UID:802346132**
 
 </div>
 
