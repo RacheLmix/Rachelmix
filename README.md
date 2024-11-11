@@ -27,6 +27,7 @@
     ### Hi! I am Rachel  <br>
     <img align="right center    "
         src="https://github-readme-stats.vercel.app/api?username=Rachelmix&count_private=true&show_icons=true&line_height=25" />
+        <br>
  🌐 Welcome to VietNam <br>
   <img style="width:1000px;" alt="img" src="https://media1.tenor.com/m/0KmaqQiWXiwAAAAC/huo-huo-huohuo.gif" />
   <br/><br/><br/>
