@@ -34,7 +34,5 @@
 </div>
 <br>
 
-<div style="display: flex; justify-content: center;">
-    <img src="/images/Hu♡Tao.jpg" style="border-radius: 100%; width: 250px; height: 250px;">
-</div>
+<img src="/images/Hu♡Tao.jpg" style="border-radius: 100%; width: 250px;height:250px; display: flex; justify-content: center;">
 
