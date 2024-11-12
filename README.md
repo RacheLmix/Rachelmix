@@ -34,8 +34,4 @@
 </div>
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="/images/Hu♡Tao.jpg" alt="Hu Tao" style="border-radius: 50%; width: 250px; height: 250px;">
-</div>
-
 
