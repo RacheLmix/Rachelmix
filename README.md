@@ -89,6 +89,9 @@
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xcRachel&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true&radius=12" />
 
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=0xcRachel&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="0xcRachel's GitHub Trophies" />
+</p>
 </div>
 
 ---
