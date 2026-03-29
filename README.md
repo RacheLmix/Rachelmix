@@ -46,7 +46,11 @@
   OS: 🐧 Arch Linux || Window
   Music: 🎵 Some Say
 ```
-
+<p align="center">
+  <a href="https://github.com/0xcRachel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xcRachel&langs_count=8&layout=compact&theme=synthwave&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 </td>
 <td width="30"></td>
 <td valign="top">
