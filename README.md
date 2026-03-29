@@ -77,8 +77,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xcRachel&count_private=true&show_icons=true&theme=aura&hide_border=true&border_radius=12&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcRachel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&theme=aura&hide_border=true&border_radius=12&langs_count=8&layout=compact" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xcRachel&count_private=true&show_icons=true&theme=aura&hide_border=true&border_radius=12&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcRachel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&theme=aura&hide_border=true&border_radius=12&langs_count=8&layout=compact" /> -->
 
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=0xcRachel&theme=dark&hide_border=true&border_radius=12&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" width="60%" />
