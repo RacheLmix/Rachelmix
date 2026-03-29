@@ -146,7 +146,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rachelmix&label=Profile+views&color=7c3aed&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=0xcRachel&label=Profile+views&color=7c3aed&style=flat" />
 
 </div>
 
