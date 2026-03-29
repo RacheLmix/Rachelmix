@@ -83,6 +83,10 @@
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=0xcRachel&theme=dark&hide_border=true&border_radius=12&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" width="60%" />
 
+<a href="https://github.com/0xcRachel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xcRachel&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="0xcRachel's GitHub Stats" />
+  </a>
+
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xcRachel&theme=react-dark&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true&radius=12" />
 
 </div>
