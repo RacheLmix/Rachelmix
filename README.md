@@ -131,16 +131,16 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/1250431140607557702">
+<a href="https://discord.com/users/757212511186714724">
   <img src="https://img.shields.io/badge/Discord-0d0d1a?style=for-the-badge&logo=discord&logoColor=a78bfa" />
 </a>
-<a href="#">
+<a href="https://rachelapps.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=a78bfa" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
 </a>
-<a href="#">
+<a href="https://www.youtube.com/@luminous9351">
   <img src="https://img.shields.io/badge/YouTube-0d0d1a?style=for-the-badge&logo=youtube&logoColor=a78bfa" />
 </a>
 
